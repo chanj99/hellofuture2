@@ -13,5 +13,6 @@ public class Main {
 	  	int birthyear = s.nextInt();
 	  	int age = 2021 - birthyear + 1;
 	  	System.out.println("You are "+ age +" years old.");
+	  	System.out.println("Thank you to using this!");
 	  }
 }
