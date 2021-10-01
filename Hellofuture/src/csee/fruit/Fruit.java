@@ -3,6 +3,7 @@ package csee.fruit;
 import java.util.Comparator;
 
 public class Fruit {
+	// 필드 
 	int no;
 	String name;
 	int price;
